@@ -63,12 +63,12 @@ class App extends React.Component {
           if (ans === undefined)
             this.setState({ question: "Math Error" });
           else
-          ans = ans.toString()
-          console.log(ans.length)
-          console.log(ans)
-            if(ans.length > 10){
-              ans = ans.substring(0, ans.length-(ans.length -10))
-            }
+          // ans = ans.toString()
+          // console.log(ans.length)
+          // console.log(ans)
+          //   if(ans.length > 10){
+          //     ans = ans.substring(0, ans.length-(ans.length -10))
+          //   }
             this.setState({ question: ans});
           break;
         }
