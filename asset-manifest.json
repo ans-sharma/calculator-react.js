@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ans-sharma/calculator-react.js/static/css/main.bf97eb99.chunk.css",
+    "main.js": "/ans-sharma/calculator-react.js/static/js/main.270cab56.chunk.js",
+    "main.js.map": "/ans-sharma/calculator-react.js/static/js/main.270cab56.chunk.js.map",
+    "runtime-main.js": "/ans-sharma/calculator-react.js/static/js/runtime-main.cb76d871.js",
+    "runtime-main.js.map": "/ans-sharma/calculator-react.js/static/js/runtime-main.cb76d871.js.map",
+    "static/js/2.26aca8e0.chunk.js": "/ans-sharma/calculator-react.js/static/js/2.26aca8e0.chunk.js",
+    "static/js/2.26aca8e0.chunk.js.map": "/ans-sharma/calculator-react.js/static/js/2.26aca8e0.chunk.js.map",
+    "index.html": "/ans-sharma/calculator-react.js/index.html",
+    "static/css/main.bf97eb99.chunk.css.map": "/ans-sharma/calculator-react.js/static/css/main.bf97eb99.chunk.css.map",
+    "static/js/2.26aca8e0.chunk.js.LICENSE.txt": "/ans-sharma/calculator-react.js/static/js/2.26aca8e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb76d871.js",
+    "static/js/2.26aca8e0.chunk.js",
+    "static/css/main.bf97eb99.chunk.css",
+    "static/js/main.270cab56.chunk.js"
+  ]
+}
